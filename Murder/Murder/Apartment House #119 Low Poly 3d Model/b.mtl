@@ -1,0 +1,15 @@
+# Wavefront MTL
+# Created by fragMOTION
+# http://www.fragmosoft.com
+
+newmtl 01___Default
+illum 2
+d 1
+ka 0 0 0
+kd 0.584314 0.584314 0.584314
+ks 0 0 0
+ke 0 0 0
+ns 10
+map_ka BuildingsNeoclassical
+map_kd BuildingsNeoclassical
+map_bump BuildingsNeoclassical
